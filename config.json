@@ -1,0 +1,12 @@
+{
+    "name": "Music Disc",
+    "prefix": "/",
+    "playing": "En mantenimiento",
+    "color": "#FFFFFF",
+    "defaultVolume": 50,
+    "maxVolume": 100,
+    "autoLeave": true,
+    "autoLeaveCooldown": 5000,
+    "displayVoiceState": true,
+    "port": 33333
+}
